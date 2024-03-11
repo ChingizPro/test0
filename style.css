@@ -17,7 +17,6 @@ span, a, label {
     background-color: silver;
     padding: 100px 200px;
     padding-bottom: 20px;
-    border: 6px solid red;
     margin-bottom: 330px;
 }
 .p {
@@ -57,7 +56,7 @@ span, a, label {
     text-decoration: none;
 }
 .section2 {
-    background-color: aqua;
+    background-color: yellow;
     padding: 100px 200px;
 }
 @media(max-width:1300px){
